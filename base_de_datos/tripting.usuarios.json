@@ -1,0 +1,114 @@
+[
+	{
+		"_id": {
+			"$oid": "662ff78bd8f58af67d34e493"
+		},
+		"id": 1,
+		"nombre": "Solchi",
+		"apellido": "Durán",
+		"nacimiento": "18/03/1999",
+		"dni": 41780984,
+		"mail": "solduran",
+		"cbu": "ADESDEMANZANA",
+		"banco": "Santander",
+		"localidad": "Olivos",
+		"contrasena": "holi",
+		"direccion": "Dr Mariano Moreno 2423"
+	},
+	{
+		"_id": {
+			"$oid": "662ff78bd8f58af67d34e494"
+		},
+		"id": 2,
+		"nombre": "Vera",
+		"apellido": "Listorti",
+		"nacimiento": "24/01/1998",
+		"dni": 41672097,
+		"mail": "listorti58@gmail.com",
+		"cbu": "CABEZA.CAUCHO.MESA",
+		"banco": "Banco Ciudad",
+		"localidad": "Olivos",
+		"contrasena": "vera123",
+		"direccion": "Cordoba 3122, 4 \"A\""
+	},
+	{
+		"_id": {
+			"$oid": "662ff78bd8f58af67d34e495"
+		},
+		"id": 3,
+		"nombre": "Giuliana",
+		"apellido": "Brunetti",
+		"nacimiento": "15/03/1998",
+		"dni": 40739832,
+		"mail": "giuliana_brunetti@hotmail.com",
+		"cbu": "PARIS.TELE.GRIS",
+		"banco": "Galicia",
+		"localidad": "Munro",
+		"contrasena": "giuliana123",
+		"direccion": "Antártida argentina 2279 depto 7"
+	},
+	{
+		"_id": {
+			"$oid": "662ff78bd8f58af67d34e496"
+		},
+		"id": 4,
+		"nombre": "Florencia",
+		"apellido": "Falotico",
+		"nacimiento": "8/06/1999",
+		"dni": 42011812,
+		"mail": "florenciafalot@hotmail.com",
+		"cbu": "FLORENCIA.FALOTICO",
+		"banco": "BBVA",
+		"localidad": "Olivos",
+		"contrasena": "florencia123",
+		"direccion": "Ayacucho 3547"
+	},
+	{
+		"_id": {
+			"$oid": "662ff78bd8f58af67d34e497"
+		},
+		"id": 5,
+		"nombre": "Catalina",
+		"apellido": "Marcassio",
+		"nacimiento": "24/02/1998",
+		"dni": 41778062,
+		"mail": "caatamarcassio@gmail.com",
+		"cbu": "CATAMARCA.SSIO",
+		"banco": "Galicia",
+		"localidad": "Olivos",
+		"contrasena": "catalina123",
+		"direccion": "Juan de Garay 2526 , 1 \"A\""
+	},
+	{
+		"_id": {
+			"$oid": "662ff78bd8f58af67d34e498"
+		},
+		"id": 6,
+		"nombre": "Eliana",
+		"apellido": "Sperat",
+		"nacimiento": "07/07/1998",
+		"dni": 41200553,
+		"mail": "eliana@sperat.com.ar",
+		"cbu": "DORSO.ALISA.COPAS.MP",
+		"banco": "Mercado Pago",
+		"localidad": "Olivos",
+		"contrasena": "eliana123",
+		"direccion": "Barreiro Aguirre 4130, Olivos"
+	},
+	{
+		"_id": {
+			"$oid": "663a657c163fb14811613dfa"
+		},
+		"nombre": "Prueba",
+		"apellido": "Duran",
+		"nacimiento": "18/03/1999",
+		"dni": 41780984,
+		"mail": "solduran@hotmail.com",
+		"cbu": "ADESDEMANZANA",
+		"banco": "Santander",
+		"direccion": "Dr Mariano Moreno 2423",
+		"localidad": "Olivos",
+		"contrasena": "$2b$10$6q86CKtLPfO9hXwIpIixGO8kDRLa0XJRSuG8O1ALlAKGPCfQOzXPa",
+		"__v": 0
+	}
+]

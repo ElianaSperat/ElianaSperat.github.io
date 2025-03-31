@@ -1,0 +1,63 @@
+[
+	{
+		"_id": {
+			"$oid": "66393583dc53b557307433d2"
+		},
+		"ubicacion": "Versalles, Francia",
+		"hospedajeNombre": "Hotel Riviera",
+		"hospedajePrecioTotal": 500,
+		"hospedajeEstadoDePago": true,
+		"hospedajeDesde": {
+			"$date": "2024-07-10T00:00:00.000Z"
+		},
+		"hospedajeHasta": {
+			"$date": "2024-07-17T00:00:00.000Z"
+		}
+	},
+	{
+		"_id": {
+			"$oid": "66393583dc53b557307433d3"
+		},
+		"ubicacion": "París, Francia",
+		"hospedajeNombre": "Hotel Eiffel",
+		"hospedajePrecioTotal": 800,
+		"hospedajeEstadoDePago": false,
+		"hospedajeDesde": {
+			"$date": "2024-08-05T00:00:00.000Z"
+		},
+		"hospedajeHasta": {
+			"$date": "2024-08-10T00:00:00.000Z"
+		}
+	},
+	{
+		"_id": {
+			"$oid": "66393583dc53b557307433d4"
+		},
+		"ubicacion": "Tokio, Japón",
+		"hospedajeNombre": "Hotel Sakura",
+		"hospedajePrecioTotal": 1200,
+		"hospedajeEstadoDePago": true,
+		"hospedajeDesde": {
+			"$date": "2024-09-20T00:00:00.000Z"
+		},
+		"hospedajeHasta": {
+			"$date": "2024-09-27T00:00:00.000Z"
+		}
+	},
+	{
+		"_id": {
+			"$oid": "663949e2852c7e4da2e5558c"
+		},
+		"ubicacion": "Nueva York, EE. UU.",
+		"hospedajeNombre": "Hotel Manhattan",
+		"hospedajePrecioTotal": 1000,
+		"hospedajeEstadoDePago": false,
+		"hospedajeDesde": {
+			"$date": "2024-06-15T00:00:00.000Z"
+		},
+		"hospedajeHasta": {
+			"$date": "2024-06-20T00:00:00.000Z"
+		},
+		"__v": 0
+	}
+]

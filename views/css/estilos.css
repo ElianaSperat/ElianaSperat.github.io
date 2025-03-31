@@ -1,0 +1,105 @@
+*{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif, sans-serif;
+}
+
+body {
+    
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    color: #030E33;
+    padding: 20px;
+    text-align: center;
+}
+
+.navbar {
+    background-color: #030E33;
+    padding: 1rem;
+}
+
+.navbar-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.navbar-logo img {
+    width: 100px;
+}
+
+.navbar-menu {
+    list-style: none;
+    display: flex;
+    margin: 0;
+    padding: 0;
+}
+
+.navbar-menu li {
+    margin: 0 15px;
+}
+
+.navbar-menu a {
+    color: #F5F5F5;
+    text-decoration: none;
+    font-optical-sizing: auto;
+}
+
+.navbar-buttons {
+    display: flex;
+}
+
+.navbar-button {
+    color: #F5F5F5;
+    text-decoration: none;
+    padding: 10px 20px;
+    margin-left: 15px;
+    font-family: "Bodoni Moda", serif;
+    font-optical-sizing: auto;
+}
+
+.navbar-button.login {
+    background-color: transparent;
+    border: 1px solid #F5F5F5;
+    border-radius: 5px;
+}
+
+.navbar-button.register {
+    background-color: #75DBBB;
+    border-radius: 5px;
+    color: #F5F5F5;
+}
+
+.navbar-button.register:hover {
+    background-color: darken(#75DBBB, 10%);
+}
+
+footer {
+    background-color: #f8f9fa;
+    color: #555;
+    text-align: center;
+    padding: 10px 0;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+footer p {
+    font-size: 14px;
+    margin: 5px 0;
+}
+
+main{
+    background-color: #F5F5F5;
+}
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+h1 {
+    font-size: 36px;
+}
+p {
+    font-size: 18px;
+}
