@@ -1,0 +1,43 @@
+✨ Ay dios gracias Eli por estos comentarios ✨
+
+Abrir dos terminales una en la ruta:
+
+PS C:\xampp\htdocs\aplicaciones hibridas 2024> npm run dev
+PS C:\xampp\htdocs\aplicaciones hibridas 2024\tripting-front> npm run dev
+
+listorti58@gmail.com
+vera123
+
+Para mostrar: 
+http://localhost:5173/iniciar-sesion
+http://localhost:5173/listado-viajes
+http://localhost:5173/nuevo-viaje
+http://localhost:5173/acciones
+
+Si quiero testear que las solicitudes del backend se están haciendo bien:
+    1. Abri el Postman
+    2. Selecciona el método: POST
+    3. En la URL: http://localhost:3000/listas
+    4. Andá a la pestaña Headers
+    5. En Key escribí: Content-Type
+    6. En Value: application/json
+    7. Te vas a la pestaña del Body
+    8. Seleccioná la opción "raw"
+    9. Fijate que el formato esté en JSON
+    10. Enviá un JSON (te dejo un ejemplo):
+        {
+            "nombreItem": "Planchita",
+            "asignadoA": "Eliana",
+            "fechaLimite": "2025-07-07",
+            "estado": "Pendiente",
+            "idDestino": "66393583dc53b557307433d2"
+        }
+
+Inicio:
+    Dashboard que muestra las últimas actualizaciones de los viajes
+Menú de navegación:
+    Avión con todos los viajes
+    Casita que muestra el Dashboard
+    Un botón principal de + que permite agregar "Lista", "Gasto", etc. a x viaje
+    Un perfil de usuario
+    Elegir uno mas para que queden 5 y se vea armónico

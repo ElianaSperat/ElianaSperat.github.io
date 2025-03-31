@@ -1,0 +1,10 @@
+Carrera: Diseño y Programación Web
+Materia: Aplicaciones Híbridas
+Cuatrimestre: Primero
+Año: 2024
+Turno: Tarde
+Comisión: DWN4BP
+Apellido: Sperat
+Nombre: Eliana
+Docente: Camila Belén Marcos Galban
+Carácter de entrega: Final
